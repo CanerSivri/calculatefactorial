@@ -19,6 +19,6 @@ int main(){
         int result = factorial(number);
         printf("Factorial of %d is %d\n", number, result);
     }
-    
+    system("pause");
     return 0;
 }
